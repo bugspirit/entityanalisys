@@ -1,0 +1,4 @@
+entityanalisys
+==============
+
+Cryptocoin Entity Analisys
